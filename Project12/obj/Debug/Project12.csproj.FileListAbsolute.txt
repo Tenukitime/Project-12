@@ -1,1 +1,2 @@
 C:\Users\Kyle\Documents\CS1400\Project12\Project12\bin\Debug\Project12.exe.config
+C:\Users\kyeeg_000\Documents\School\Programming\CS1400\Project12\Project12\bin\Debug\Project12.exe.config
